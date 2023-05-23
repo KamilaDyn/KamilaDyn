@@ -26,7 +26,7 @@ I am Front end Developer.
 
 ### 📊 Stats
 
-![Kamila's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamilaDyn&show_icons=true&theme=radical)
+![Kamila's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamilaDyn&show_icons=true&hide=contribs&theme=radical)
 
 #
 
