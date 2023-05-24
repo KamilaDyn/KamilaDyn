@@ -26,11 +26,28 @@ I am Front end Developer.
 
 ### 📊 Stats
 
-![Kamila's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamilaDyn&show_icons=true&hide=contribs&theme=radical)
+<div style="display: flex; flex-direction: row;">
+    <img class="img" height="150" src="https://github-readme-stats.vercel.app/api?username=kamilaDyn&show_icons=true&hide=contribs&theme=radical" />
+    <img class="img" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamilaDyn&layout=compact&theme=vision-friendly-dark" />
+</div>
 
 #
 
+---
+
 ### - 🔭 I’m currently open to work
+
+---
+
+<div align='center'><h3>CONTACT ME</h3></div>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/kamila-d-489849180/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:kamila.dynysiuk@gmail.com">
+    <img src="https://img.shields.io/badge/Mail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</div>
 
 <!--
 **KamilaDyn/KamilaDyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
