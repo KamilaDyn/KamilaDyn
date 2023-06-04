@@ -2,9 +2,19 @@
 
 <div>
 <h1>Hi 😄</h1>
-</div>
 
 I am Front end Developer.
+
+In my programming path, I am primarily a self-taught person. I have learned to program from FreeCodeCamp, code academy, udemy platform, some youtube channels, and articles from the medium page.
+
+I am focusing on programming web and applications from the Frontend side, but also I looking to be a full-stack developer in the future.
+
+I was working with web pages and applications based on JavaScript with library React and React Native. I develop and build react-native applications for Android and iOS.
+I can also create a custom page for WordPress with plugins.
+
+My GitHub portfolio shows coding projects, including those that I have independently developed during programming self-studies.
+
+</div>
 
 ---
 
@@ -27,7 +37,7 @@ I am Front end Developer.
 ### 📊 Stats
 
 <div style="display: flex; flex-direction: row;">
-    <img class="img" height="150" src="https://github-readme-stats.vercel.app/api?username=kamilaDyn&show_icons=true&hide=contribs&theme=radical" />
+    <img class="img" height="150" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api?username=kamilaDyn&show_icons=true&hide=contribs&theme=radical" />
     <img class="img" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamilaDyn&layout=compact&theme=vision-friendly-dark" />
 </div>
 
@@ -36,6 +46,8 @@ I am Front end Developer.
 ---
 
 ### - 🔭 I’m currently open to work
+
+#### <div><h3>My portfolio </h3><p> <a  href='https://kamiladyn.github.io/portfolio/'>live view, </a> <a href='https://github.com/KamilaDyn/portfolio'>GitHub</a></p>
 
 ---
 
