@@ -52,8 +52,8 @@ My GitHub portfolio shows coding projects, including those that I have independe
  <h3>My portfolio </h3>
 
 <ul> 
-<li><a  href='https://kamiladyn.github.io/portfolio/'>LIVE VIEW</a></li>
-<li> <a href='https://github.com/KamilaDyn/portfolio'>GitHub</a></li>
+<li><a  href='https://kamiladyn.github.io/portfolio/' target="_blank">LIVE VIEW</a></li>
+<li> <a href='https://github.com/KamilaDyn/portfolio' target="_blank">GitHub</a></li>
 </ul>
 </div>
 
