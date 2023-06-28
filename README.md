@@ -16,6 +16,22 @@ My GitHub portfolio shows coding projects, including those that I have independe
 
 </div>
 
+# 🔭 I’m currently open to work
+
+ <div>
+ 
+ <h3>My portfolio </h3>
+
+<ul>
+
+# <li><a  href='https://kamiladyn.github.io/portfolio/' target="_blank">LIVE VIEW</a></li>
+
+<li> <a href='https://github.com/KamilaDyn/portfolio' target="_blank">GitHub</a></li>
+</ul>
+</div>
+
+---
+
 ---
 
 ### 👨🏻‍💻 Languages and Tools
@@ -42,20 +58,6 @@ My GitHub portfolio shows coding projects, including those that I have independe
 </div>
 
 #
-
----
-
-### - 🔭 I’m currently open to work
-
- <div>
- 
- <h3>My portfolio </h3>
-
-<ul> 
-<li><a  href='https://kamiladyn.github.io/portfolio/' target="_blank">LIVE VIEW</a></li>
-<li> <a href='https://github.com/KamilaDyn/portfolio' target="_blank">GitHub</a></li>
-</ul>
-</div>
 
 ---
 
