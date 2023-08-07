@@ -30,6 +30,16 @@ My GitHub portfolio shows coding projects, including those that I have independe
 </ul>
 </div>
 
+## 🌱 I’m currently learning:
+
+Free course <a href='https://fullstackopen.com/en/' target='_blank'>FullStack Open2023</a> from University of Helsinki
+My repository for it is -> <a href='https://github.com/KamilaDyn/fullStackOpen-2023' target='_blank'>here</a>
+About the course: The main focus is on building single page applications with ReactJS that use REST APIs built with Node.js. <a href='https://fullstackopen.com/en/about' target="_blank">more info</a>
+
+And....
+
+Practice skills after learning <a href='https://github.com/KamilaDyn/pet-clinic'>own react fullstack project for reservation</a>
+
 ---
 
 ### 👨🏻‍💻 Languages and Tools
@@ -67,6 +77,44 @@ My GitHub portfolio shows coding projects, including those that I have independe
   <a href="mailto:kamila.dynysiuk@gmail.com">
     <img src="https://img.shields.io/badge/Mail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
+</div>
+
+---
+
+<div>
+
+<h2>Repository by tech stack</h2>
+<p><b>React</b></p>
+<ul>
+<li>
+<a href='https://github.com/KamilaDyn/portfolio' target='_blank'>portfolio </a>React, TypeScript
+</li>
+<li>
+<a href='https://github.com/KamilaDyn/customers-list-react' target='_blank'>Table with users</a>React, plus BE in Node
+</li>
+<li>
+<a href='https://github.com/KamilaDyn/table-with-breadcrumb' target='_blank'>Table with books</a>React, Typescript, google books API
+</li>
+
+<li>
+<a href='https://github.com/KamilaDyn/Travel-Notes' target='_blank'>App to add notes</a>One of first, old React project (React v16.13.1)
+</li>
+</ul>
+<p><b>PHP, Theme for WordPress</b><p>
+<ul>
+<li>
+<a href='https://github.com/KamilaDyn/act-outs-theme' target='_blank'>Act outs theme</a>Custom theme for WordPress
+</li>
+<li>
+<a href='https://github.com/KamilaDyn/rara-academic-child' target='_blank'>Rara academic child</a>Child theme for WordPress
+</li>
+<li>
+<a href='https://github.com/KamilaDyn/vat-counter-wp-plugin' target='_blank'>Vat counter plugin for WordPress</a>
+</li>
+<li>
+<a href='https://github.com/KamilaDyn/address-map-plugin-wp' target='_blank'>Address map plugin for WordPress</a>
+</li> Plugin to add  items on map, map is from leaflet.js library
+</ul>
 </div>
 
 <!--
