@@ -100,6 +100,14 @@ Practice skills after learning <a href='https://github.com/KamilaDyn/pet-clinic'
 <a href='https://github.com/KamilaDyn/Travel-Notes' target='_blank'>App to add notes </a>One of first, old React project (React v16.13.1)
 </li>
 </ul>
+
+<p><b>React Native</b></p>
+My react native project are from course from udemy <a href='https://www.udemy.com/course/react-native-the-practical-guide/'> by Maximilian Schwarzmüller
+I had experience in previous work with develop react native Cli app, for iOS and Android Platform.
+<ul>
+<li><a href='https://github.com/KamilaDyn/react-native-course' target='_blank'  rel="noopener" >React Native ( expo) </a> </li>
+</ul>
+
 <p><b>PHP, Theme for WordPress</b><p>
 <ul>
 <li>
